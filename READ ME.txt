@@ -1,0 +1,8 @@
+These directory contains following files:
+Design.pdf: It has details about the design and instructions to run the software
+Test cases and Performance Evaluation.pdf: It contains the test cases and performance evaluation that performed using this software.
+P2P Replica Management Output.pdf It has the output for data consistency for 3X3 Mesh network
+src Folder: Source folder for the software.
+
+Config.properties: Edit this file as per the required network topology and master, replica folders
+Execute Peer as java p2pReplica/Peer
